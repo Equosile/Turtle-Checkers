@@ -1,6 +1,7 @@
 # Turtle-Checkers  
 [ Python 3 Turtle Library ] Pilot-Test: Checkers  
   
+  <br></br>
   
 [ INTRODUCTION ]  
 Even thought the original purpose of this project is about "Minimax With Alpha-Beta Pruning Agent",  
@@ -23,6 +24,7 @@ so predominantly additional installations like "pip" are not required.
 This project demonstates the performance test of Turtle,  
 playing a simple checkers board game.  
   
+  <br></br>
   
 [ INSTRUCTION ]  
   
@@ -40,6 +42,7 @@ python checkers.py
 e.g.) In Anaconda bash,  
 ?> python checkers.py  
   
+  <br></br>
   
 [ POSSIBLE ISSUES ]  
   
