@@ -9,7 +9,7 @@
 #                                              #
 ################################################
 #                                              #
-# Script Writor: Equosile (jk488@sussex.ac.uk) #
+# Script Writer: Equosile (jk488@sussex.ac.uk) #
 # https://github.com/Equosile/Turtle-Checkers  #
 #                                              #
 ################################################
