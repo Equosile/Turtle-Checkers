@@ -21,7 +21,7 @@
 #                                                                                 # 
 # The BSD Zero Clause License (0BSD)                                              #
 #                                                                                 #
-# Copyright (c) [year] [company].                                                 #
+# Copyright (c) 2022 Equosile.                                                    #
 #                                                                                 #
 # Permission to use, copy, modify, and/or distribute this software for any        #
 # purpose with or without fee is hereby granted.                                  #
